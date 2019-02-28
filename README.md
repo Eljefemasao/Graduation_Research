@@ -1,7 +1,7 @@
 <html>
 <body>
 
-<h1>Detecting Shadow Region in An Image Applying Grad-cam to CNNs</h1>
+<h1>Detecting Shadow Region in An Image <br> Applying Grad-cam to CNNs</h1>
 Generally, outdoor object are influenced by various oprical phenomenons.
 For instance, reflection of lights and shadows.
 Those phenomenos makes edge and blobs and finaly, object appearance changes.
@@ -9,7 +9,7 @@ Because of object appearance changes effects a serious negative influence in out
 There are some needs to detecting shadow and removal from image.
 
 <div>
-<img alt="er" src="https://github.com/Eljefemasao/Graduation_Research/blob/development/images_for_readme/gradcam.pdf">
+<img alt="er" src="https://github.com/Eljefemasao/Graduation_Research/blob/development/images_for_readme/gradcam.pdf" >
 </div>
 
 <h2>Major Dependencies</h2>
@@ -22,6 +22,9 @@ There are some needs to detecting shadow and removal from image.
 
 </ul>
 <h2>Files/Directories</h2>
+<ul>
+<li>classify_seesa_keras.ipynb: main code</li>
+</ul>
 
 </body>
 </html>

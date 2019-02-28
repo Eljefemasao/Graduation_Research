@@ -1,16 +1,19 @@
 <html>
 <body>
 
+<div>
 <h1>Detect shadow region from an image <br> applying Grad-cam to CNNs</h1>
-Generally, outdoor object are influenced by various oprical phenomenons.
+<p>Generally, outdoor object are influenced by various oprical phenomenons.
 For instance, reflection of lights and shadows.
 Those phenomenos makes edge and blobs and finaly, object appearance changes.
 Because of object appearance changes effects a serious negative influence in outdoor object classifier CNNs,
 There are some needs to detecting shadow and removal from image.
+</p>
+</div>
 
-
+<div>
 <img alt="er" src="https://github.com/Eljefemasao/Graduation_Research/blob/development/images_for_readme/gradcam.pdf" >
-
+</div>
 
 <h2>Major Dependencies</h2>
 <ul>

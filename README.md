@@ -11,7 +11,10 @@ There are some needs to detecting shadow and removal from image.
 </p>
 </div>
 
-![alt text](https://github.com/Eljefemasao/Graduation_Research/blob/development/images_for_readme/gradcam.pdf)
+<div>
+<img alt="er" src="https://github.com/Eljefemasao/Graduation_Research/blob/development/images_for_readme/gradcam.png" >
+</div>
+
 
 <h2>Major Dependencies</h2>
 <ul>

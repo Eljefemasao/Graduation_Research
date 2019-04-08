@@ -1,21 +1,29 @@
 <html>
 <body>
 
-<div>
-<h1>Detect shadow region from an image <br> applying Grad-cam to binary shadow classifier CNNs</h1>
-<p>Generally, outdoor object are influenced by various optical phenomenons.
+  <div>
+    <h1>Detect shadow region from an image <br> applying Grad-cam to binary shadow classifier CNNs</h1>
+
+    <h2>Background</h2>
+
+    <p>Generally, outdoor object are influenced by various optical phenomenons.
 For instance, reflection of lights and shadows.
-Those phenomenons makes edge and blobs and finally, object appearance changes.
-Because of object appearance changes effects a serious negative influence in outdoor object classifier CNNs,
-There are some needs to detecting shadow and removal from image.
+Those phenomenons makes edge and blobs and finally,they causes object appearance changes.
+And, because of the object appearance changes effects a serious negative influence in outdoor object classifier CNNs,
+      There are some needs to detecting shadow and removal from image.<br>
+      So, this time, we suggest computional low-cost shadow detecter using Grad-CAM.
+      By optimizing Grad-CMA to binary classifier Convolutional Neural Network which classifies shadow containing image, we believe it makes significant computional cost reduction. 
 </p>
-</div>
+
+  </div>
+<h2>Shadow Detecter Architecture</h2>
 <div>
 <img alt="er" src="https://github.com/Eljefemasao/Graduation_Research/blob/development/images_for_readme/binary.png" >
 </div>
 
 
 <h2>Result on actual outdoor object </h2>
+yIt can detect sh
 <div>
 <img alt="er" src="https://github.com/Eljefemasao/Graduation_Research/blob/development/images_for_readme/gradcam.png" >
 </div>

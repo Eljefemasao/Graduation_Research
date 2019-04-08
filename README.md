@@ -1,12 +1,10 @@
 <html>
 <body>
 
-
-    <h1>Detect shadow region from an image <br> applying Grad-cam to binary shadow classifier CNNs</h1>
-
-    <h2>Background</h2>
+<h1>Detect shadow region from an image <br> applying Grad-cam to binary shadow classifier CNNs</h1>
+<h2>Background</h2>
 <div>
-    <p>Generally, outdoor object are influenced by various optical phenomenons.
+<p>Generally, outdoor object are influenced by various optical phenomenons.
 For instance, reflection of lights and shadows.
 Those phenomenons makes edge and blobs and finally,they causes object appearance changes.
 And, because of the object appearance changes effects a serious negative influence in outdoor object classifier CNNs,

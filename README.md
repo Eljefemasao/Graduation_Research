@@ -1,6 +1,9 @@
 <html>
 <body>
-
+  <h2>Introduction of my Graduation Research</h2>
+  <div>
+    `jupyter notebook classify_seesa_keras.ipynb`
+    </div>
 <h1>Detect shadow region from an image <br> applying Grad-cam to binary shadow classifier CNNs</h1>
 <h2>Background</h2>
 <div>
@@ -13,9 +16,20 @@ And, because of the object appearance changes effects a serious negative influen
       By optimizing Grad-CMA to binary classifier Convolutional Neural Network which classifies shadow containing image, we believe it makes significant computional cost reduction. 
 </p>
 </div>
-    
+
+<h2>What is Grad-CAM</h2>
+<div>
+ Gradient-weighted Class Activation Mapping(Grad-CAM)is an excellent visualization idea for understanding Convolutional Neural Network functions. As more detail explanation of this technique, It uses the gradients of any target concept(say logits for 'dog' or even a caption),flowing into the final convolutional layer to produce a coarse localization map highlighting important regions in an image for predicting the concept.
+Furthermore, By piling up these localization map onto Guided Backpropagation output, it realizes high level visualization system.
+  There are roughly two algorithm flows. One is the Class Activation Mapping(CAM) and the other one is Guided BackPropagation.
+  CAM is one of the funduamental idea for Grad-CAM. 
+</div>
 <h2>Shadow Detecter Architecture</h2>
 <div>
+  Our new idea is to highlighting shadow region in an input image pixel by optimizing Grad-CAM idea.
+  As shown bottom diagram,
+</div>
+<div>  
 <img alt="er" src="https://github.com/Eljefemasao/Graduation_Research/blob/development/images_for_readme/binary.png" >
 </div>
 
@@ -29,11 +43,12 @@ And, because of the object appearance changes effects a serious negative influen
 
 <h2>Major Dependencies</h2>
 <ul>
-<li>python:3.6.3</li>
-<li>tensorboard:1.11.0</li>
-<li>tensorflow-gpu:1.11.0</li>
-<li>scikit-learn:0.19.1</li>
-<li>keras:2.1.3</li>
+<li>python==3.6.3</li>
+<li>Jupyter==1.0.0</li>
+<li>tensorboard==1.11.0</li>
+<li>tensorflow-gpu==1.11.0</li>
+<li>scikit-learn==0.19.1</li>
+<li>keras==2.1.3</li>
 
 </ul>
 <h2>Files/Directories</h2>

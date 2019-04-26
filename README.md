@@ -30,7 +30,7 @@ Furthermore, By piling up these localization map onto Guided Backpropagation out
   There are roughly two algorithm flows. One is the Class Activation Mapping(CAM) and the other one is Guided BackPropagation.
  CAM is one of the funduamental idea for Grad-CAM.
  <div>
- <img alt="er" scr="https://github.com/Eljefemasao/Graduation_Research/blob/development/images_for_readme/gradcam_paper.png">  
+ <img alt="er" src="https://github.com/Eljefemasao/Graduation_Research/blob/development/images_for_readme/gradcam_paper.png">  
  </div>
 </div>
 <h2>Shadow Detecter Architecture</h2>

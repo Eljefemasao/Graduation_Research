@@ -1,7 +1,6 @@
 <html>
 <body>
   <h1>Introduction of my Graduation Research</h1>
-<h2>Detect shadow region from an image <br> applying Grad_CAM to binary shadow classifier CNN</h2>
 By conducting command which is described bottom, you can check my main code used at Graduation Research.
   
 <div>
@@ -33,6 +32,7 @@ Furthermore, By piling up these localization map onto Guided Backpropagation out
  <img alt="er" src="https://github.com/Eljefemasao/Graduation_Research/blob/development/images_for_readme/gradcam_paper.png">  
  </div>
 </div>
+<h1>Detect shadow region from an image <br> applying Grad-CAM to binary shadow classifier CNN</h1>
 <h2>Shadow Detecter Architecture</h2>
 
 <div>
@@ -44,8 +44,8 @@ Furthermore, By piling up these localization map onto Guided Backpropagation out
 </div>
 
 
-<h2>Result on actual outdoor object </h2>
-By applying that proposed method, youcan detect shadow region in an image.
+<h2>Result applying our approach at object image taken at outdoor</h2>
+By applying that proposed method, you can detect shadow region in an image.
 <div>
 <img alt="er" src="https://github.com/Eljefemasao/Graduation_Research/blob/development/images_for_readme/gradcam.png" >
 </div>

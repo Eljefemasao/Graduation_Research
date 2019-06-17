@@ -4,20 +4,23 @@
       <img alt="er" src="https://github.com/Eljefemasao/Graduation_Research/blob/development/images_for_readme/gradcam.png" >
       </div>
 <div>    
-    <ul>
+  <ul>    
       <li><p><a href="#introduction">Introduction</a></p></li>
       <ul>
       <li><p><a href="#Research Background">Research Background</a><p></li>
-      <li><p><a href="#What is Grad_CAM">What is Grad_CAM</p></li>
+      <li><p><a href="#What is Grad_CAM">What is Grad_CAM</a></p></li>
       </ul>
       <li><p><a href="#detect">Detect shadow region from an image <br> applying Grad-CAM to binary shadow classifier CNN</a></p></li>
+
       <ul>
 	<li><p><a href="#Shadow Detecter Architecture">Shadow Detecter Architecture</a></p></li>
 	<li><p><a href="#Result applying our approach">Result applying our application at object image taken at outdoor</a></p></li>
-	</ul>
+      </ul>
+
     </ul>
-    </div>
-  <h1><a href="#introduction">Introduction of my Graduation Research</h1>
+</div>
+
+  <h1><p><a href="#introduction">Introduction of my Graduation Research</a></p></h1>
 By conducting command which is described bottom, you can check my main code used at Graduation Research.
   
 <div>

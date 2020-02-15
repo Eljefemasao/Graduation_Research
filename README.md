@@ -26,7 +26,7 @@
 </div>
 
 <div>
-  <h1><p><a href="#introduction">Introduction of my Graduation Research</a></p></h1>
+  <h1>Introduction of my Graduation Research</h1>
 By conducting command which is described bottom, you can check my main code used at Graduation Research.
 </div>  
 

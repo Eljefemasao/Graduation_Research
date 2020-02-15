@@ -11,19 +11,22 @@
       <li><p><a href="#What is Grad_CAM">What is Grad_CAM</a></p></li>
       </ul>
 </ul>
-
+</div>
+<div>
 <ul>
-      <li><p><a href="#detect">Detect shadow region from an image <br> applying Grad-CAM to binary shadow classifier CNN</a></p></li>
+      <li><p><a href="#detect">Detect shadow region from an image applying Grad-CAM to binary shadow classifier CNN</a></p></li>
       <ul>
 	<li><p><a href="#Shadow Detecter Architecture">Shadow Detecter Architecture</a></p></li>
 	<li><p><a href="#Result applying our approach">Result applying our application at object image taken at outdoor</a></p></li>
       </ul>
-    </ul>
+</ul>
 </div>
 
+<div>
   <h1><p><a href="#introduction">Introduction of my Graduation Research</a></p></h1>
 By conducting command which is described bottom, you can check my main code used at Graduation Research.
-  
+</div>  
+
 <div>
 
  ```

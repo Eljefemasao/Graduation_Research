@@ -1,13 +1,16 @@
 <html>
-  <body>
-    <div>
+<body>
+<div>
       <img alt="er" src="https://github.com/Eljefemasao/Graduation_Research/blob/development/images_for_readme/gradcam.png" />
-      </div>
+</div>
+
 <div>    
+<h1>A TABLE OF CONTENTS</h1>
+
   <ul>    
       <li><p><a href="#introduction">Introduction</a></p></li>
       <ul>
-      <li><p><a href="#Research Background">Research Background</a><p></li>
+      <li><p><a href="#Research Background">Research Background</a></p></li>
       <li><p><a href="#What is Grad_CAM">What is Grad_CAM</a></p></li>
       </ul>
 </ul>
